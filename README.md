@@ -15,3 +15,6 @@ Feel free to ask me questions or just say hi, just join the dev server and shoot
 The MySQL database scheme is included in `discord.sql`, you will have to reverse or replace the enviormental variables in the code for proper results.
 
 Shoutout to NotSoSuper for the original code, and by extension, everyone that helped him as well.
+
+## Want to help out?
+MurmSoBot is currently needing more devs to work on it, as of now I only have myself. If you're able to help contribute to the project in any way PLEASE don't heasitate to contact me.
